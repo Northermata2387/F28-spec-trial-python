@@ -1,0 +1,49 @@
+Reflection
+
+1. What did you like about Python? What didn’t you like?
+
+DisLikes:
+Simple, clean and easier to understand
+Cross-platform
+Extensive libraries
+Database connceticity
+
+Likes:
+Not heavigly used in mobile applications.
+Memory consumption is high
+More likely to have erros that show up during runtime
+
+2. What would pursuing Python look like for you?
+
+Careers:
+ Software Engineer
+    Analyze user requirements
+    Write and test code
+    Write operational documentation
+    Consult clients and work closely with other staff
+    Develop existing programs
+ DevOps Engineer
+    Deploy updates and fixes
+    Analyze and resolve technical issues
+    Design procedures for maintenance and troubleshooting
+    Develop scripts to automate visualization
+    Deliver Level 2 technical support
+ Data Scientist
+    Identify data sources and automate the collection
+    Preprocess data & analyze it to discover trends
+    Design predictive models and ML algorithms
+    Perform data visualization
+    Propose solutions to business challenges
+
+Pythons Future includes:
+    Artificial Intelligence
+    Huge Data
+    Networking
+
+Comapnies
+    1. NASA
+    2. Google
+    3. Nokia
+    4. IBM
+    5. Yahoo! Maps
+    6. Walt Disney Feature Animation
